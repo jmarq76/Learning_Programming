@@ -1,0 +1,10 @@
+def maximo(x, y):
+    if x > y:
+        print(X)
+    else:
+        print(y)
+        
+x = int(input("Digite o primeiro numero inteiro: ")
+y = int(input("Digite o segundo numero inteiro: ")
+
+maximo(x, y)
